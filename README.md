@@ -181,7 +181,7 @@ python3 --version
 Clone the repository:
 
 ```bash
-git clone https://github.com/Fredy-devsec/scanfredy.git
+git clone https://github.com/Fredy-devsec/python-port-scanner.git
 ```
 
 Enter the project directory:
