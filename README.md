@@ -1,4 +1,4 @@
-# 🔐 ScanFred — Python Port Scanner
+# 🔐 ScanFredy — Python Port Scanner
 
 A simple TCP port scanning project developed in Python for **educational purposes and cybersecurity learning**.
 
@@ -77,7 +77,7 @@ It includes:
 ```text
 ╔══════════════════════════════════════════════╗
 ║                                              ║
-║                 SCANFRED                     ║
+║                 SCAN FREDY                   ║
 ║             PYTHON PORT SCANNER              ║
 ║                                              ║
 ║              Developed by Fredy              ║
