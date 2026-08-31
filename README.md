@@ -10,7 +10,7 @@ This repository contains two versions of a basic port scanner, developed step by
 
 ## 📖 About the Project
 
-**ScanFred** is a small Python-based project created while studying **Information Technology and Cybersecurity**.
+**ScanFredy** is a small Python-based project created while studying **Information Technology and Cybersecurity**.
 
 The main goal of this project is not to create a professional replacement for tools such as Nmap, but rather to understand the fundamental concepts behind a simple TCP port scanner by building one from scratch.
 
