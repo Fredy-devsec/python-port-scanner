@@ -187,7 +187,7 @@ git clone https://github.com/Fredy-devsec/python-port-scanner.git
 Enter the project directory:
 
 ```bash
-cd scanfredy
+cd python-port-scanner
 ```
 
 You can then run either scanner.
@@ -196,12 +196,12 @@ You can then run either scanner.
 
 # ▶️ Usage
 
-## Scanner V1
+#Scanner 1.0 — Basic Scanner
 
 Run:
 
 ```bash
-python scanner_v1.py
+python scanner1.0.py
 ```
 
 The program will ask:
@@ -224,12 +224,12 @@ The scanner will then test TCP ports from:
 
 ---
 
-## Scanner V2
+##Scanner 2.0 — ScanFredy
 
 Run:
 
 ```bash
-python scanner_v2.py
+python scanner2.0.py
 ```
 
 Enter the target IP when requested:
@@ -393,10 +393,10 @@ Some of the concepts I practiced include:
 The repository currently contains the two learning stages:
 
 ```text
-scanfredy/
+python-port-scanner/
 │
-├── scanner_v1.py
-├── scanner_v2.py
+├── scanner1.0.py
+├── scanner2.0.py
 └── README.md
 ```
 
