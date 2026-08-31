@@ -400,13 +400,13 @@ python-port-scanner/
 └── README.md
 ```
 
-### `scanner_v1.py`
+### `scanner1.0.py`
 
 The original and simpler implementation.
 
 Its purpose is to demonstrate the basic concept of TCP port scanning.
 
-### `scanner_v2.py`
+### `scanner2.0.py`
 
 An improved version with:
 
